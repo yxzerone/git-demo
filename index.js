@@ -1,5 +1,5 @@
 console.log(1, 2, 3); console.log(222)
-console.log(1, 2, 3)；console.log(333)
+console.log(1, 2, 3); console.log(333)
 console.log(1, 2, 3)
 console.log(1, 2, 3)
 console.log(1, 2, 3)
